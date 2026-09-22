@@ -2,7 +2,7 @@
 
 A small Bash-based tool for deploying and managing websites using Docker on Linux.
 
-The project was made for the **Introduction to Linux** course as a final project. The main idea was to make Docker-based website deployment easier through a simple interactive terminal interface.
+The project was made for the **Introduction to Linux (summer 2026)** university course as a final project. The main idea was to make Docker-based website deployment easier through a simple interactive terminal interface.
 
 ![Main Menu](screenshots/main-menu.png)
 
@@ -17,7 +17,7 @@ The Docker Project allows you to deploy and manage:
 
 The project also includes an arrow-key menu instead of the usual number-based menu, making the interface a little easier and more natural to use.
 
-The main goal of the project was to run a website on a Linux machine and access it from another device on the same network.
+The main goal of the project was to **run a website on a Linux machine** and **access it from another device** on the same network.
 
 ## Features
 
